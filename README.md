@@ -52,6 +52,18 @@ As Instagram continues to shape online interactions, content creators, businesse
 
 -This analysis enables data-driven decisions by highlighting high-risk borrower profiles and supporting more effective loan approval and monitoring strategies.
 
+## Dashboard Visuals
+
+### Loan Default & Overview
+https://github.com/Sujitroy98/Loan-Default/blob/main/Dashboards/Loan%20Default%20%26%20Overview.png
+
+### /Financial Risk Metrics
+https://github.com/Sujitroy98/Loan-Default/blob/main/Dashboards/Financial%20Risk%20Metrics.png
+
+### /Applicant Demographics & Financial Profile
+https://github.com/Sujitroy98/Loan-Default/blob/main/Dashboards/Applicant%20Demographics%20%26%20Financial%20Profile.png
+
+
 ### Conclusion
 
 In conclusion, this Power BI project provided meaningful insights into loan default behavior by analyzing borrower demographics, financial status, and loan characteristics. The interactive dashboards revealed that factors such as employment type, credit score, and income bracket significantly influence default risk. Trends over time—captured through YoY and YTD metrics—highlighted changes in loan volumes and defaults, while demographic breakdowns exposed high-risk segments. The use of a decomposition tree further enhanced understanding of how income and employment jointly impact loan distributions. Overall, the project demonstrates how data visualization and business intelligence tools can support more informed, efficient, and strategic decision-making in the lending industry
