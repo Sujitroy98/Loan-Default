@@ -58,10 +58,10 @@ As Instagram continues to shape online interactions, content creators, businesse
 ![Loan Default & Overview](https://github.com/Sujitroy98/Loan-Default/blob/main/Dashboards/Applicant%20Demographics%20%26%20Financial%20Profile.png)
 
 ### Financial Risk Metrics
-![Financial Risk Metrics](./Dashboards/Financial Risk Metrics.png)
+![Financial Risk Metrics](https://github.com/Sujitroy98/Loan-Default/blob/main/Dashboards/Financial%20Risk%20Metrics.png)
 
 ### Applicant Demographics & Financial Profile
-![Applicant Demographics & Financial Profile](./Dashboards/Applicant Demographics & Financial Profile.png)
+![Applicant Demographics & Financial Profile](https://github.com/Sujitroy98/Loan-Default/blob/main/Dashboards/Applicant%20Demographics%20%26%20Financial%20Profile.png)
 
 
 ### Conclusion
