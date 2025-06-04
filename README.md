@@ -55,7 +55,7 @@ As Instagram continues to shape online interactions, content creators, businesse
 ## Dashboard Visuals
 
 ### Loan Default & Overview
-![Loan Default & Overview](/Dashboards/Loan Default & Overview.png)
+![Loan Default & Overview](Dashboards/Loan Default & Overview.png)
 
 ### Financial Risk Metrics
 ![Financial Risk Metrics](/Dashboards/Financial Risk Metrics.png)
